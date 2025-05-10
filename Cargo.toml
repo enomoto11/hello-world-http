@@ -2,7 +2,6 @@
 name = "hello-world-http"
 version = "0.1.0"
 edition = "2021"
-authors = [ "enomoto11 <enomoto_togo@cyberagent.co.jp>" ]
 
 [package.metadata.release]
 release = false
